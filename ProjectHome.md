@@ -1,0 +1,3 @@
+Many crisis response and recovery efforts require choosing locations in order to deliver needed materials and services. Automated methods can help choose optimal locations for relief camps, field hospitals, command centers, and other critical relief infrastructure. However, current information technology tools for siting relief infrastructure suffer from exposing too much complexity to the user. We have developed a tool, CR-Site, which we hope will serve as an exemplar of an emergency siting tool that eliminates unnecessary complexity, while exposing necessary parameters.
+
+http://mgiscapstonesummary.weebly.com/uploads/1/1/9/8/11986673/1882939.png?214
